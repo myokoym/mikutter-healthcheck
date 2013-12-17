@@ -1,0 +1,13 @@
+mikutter-healthcheck
+
+* なんこれ
+  あなたのmikutterをヘルスチェックします。
+
+* 使い方
+  設定画面を開き、「アクティビティ」の「タイムラインに表示」の「ヘルスチェック」をオンしてください。
+
+* インストール方法
+  以下のコマンドでインストールできます。
+
+  : $ mkdir ~/.mikutter/plugin/; git clone https://github.com/myokoym/mikutter-healthcheck.git ~/.mikutter/plugin/healthcheck
+
